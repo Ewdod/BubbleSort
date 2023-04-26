@@ -1,0 +1,17 @@
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\bin\Debug\net6.0-windows\BubbleSortAnimation.exe
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\bin\Debug\net6.0-windows\BubbleSortAnimation.deps.json
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\bin\Debug\net6.0-windows\BubbleSortAnimation.runtimeconfig.json
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\bin\Debug\net6.0-windows\BubbleSortAnimation.dll
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\bin\Debug\net6.0-windows\BubbleSortAnimation.pdb
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.csproj.AssemblyReference.cache
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.Form1.resources
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.csproj.GenerateResource.cache
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.AssemblyInfoInputs.cache
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.AssemblyInfo.cs
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.csproj.CoreCompileInputs.cache
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.dll
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\refint\BubbleSortAnimation.dll
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.pdb
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\BubbleSortAnimation.genruntimeconfig.cache
+C:\Users\haybe\source\repos\ANK13-Uygulamalar\Teori\BubbleSortAnimation\obj\Debug\net6.0-windows\ref\BubbleSortAnimation.dll
