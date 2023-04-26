@@ -52,16 +52,16 @@ namespace BubbleSortAnimation
 
         }
 
-        void YerDegistir(int kaynak, int hedef)
-        {
-            object yedek = lstSayilar.Items[kaynak];
-            lstSayilar.Items[kaynak] = lstSayilar.Items[hedef];
-            lstSayilar.Items[hedef] = yedek;
-        }
+        //void YerDegistir(int kaynak, int hedef)
+        //{
+            //object yedek = lstSayilar.Items[kaynak];
+            //lstSayilar.Items[kaynak] = lstSayilar.Items[hedef];
+            //lstSayilar.Items[hedef] = yedek;
+        //}
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            YerDegistir(0, 1);
-        }
+        //private void button1_Click(object sender, EventArgs e)
+        //{
+            //YerDegistir(0, 1);
+        //}
     }
 }
